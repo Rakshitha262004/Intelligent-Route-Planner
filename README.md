@@ -230,13 +230,15 @@ KIA (Airport) ──── Yelahanka ──── Hebbal ──── Manyata Te
 
 ## 📸 Screenshots
 
-> Add screenshots to `/images/` folder after running:
-- `images/01_home_ui.png` — Main UI
-- `images/02_route_result.png` — Route found with directions
-- `images/03_graph_highlighted.png` — Path on graph canvas
-- `images/04_compare_panel.png` — Algorithm comparison
-- `images/05_adjacency_list.png` — Adjacency viewer
-- `images/06_api_swagger.png` — FastAPI /docs
+|----------------------------| ----------------------------| --------------------------- |
+|![dashboard](outputs/1.png) | ![dashboard](outputs/2.png) | ![dashboard](outputs/3.png) |
+|![dashboard](outputs/4.png) | ![dashboard](outputs/5.png) | ![dashboard](outputs/6.png) |
+|![dashboard](outputs/7.png) |
+
+---
+
+## Drive Demo Video 
+link : https://drive.google.com/file/d/1k-F5st-rQUPQHQzJi9UYWDB6E0T-atd3/view?usp=sharing
 
 ---
 
